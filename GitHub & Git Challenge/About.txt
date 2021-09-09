@@ -1,0 +1,5 @@
+About the challenge:
+Create a github repository to keep track of your development through Digital Inovation One courses and bootcamps.
+
+Solution:
+This repository is the solution to the git and github challenge.
