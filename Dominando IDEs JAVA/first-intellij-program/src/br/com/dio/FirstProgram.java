@@ -1,6 +1,7 @@
 package br.com.dio;
 
 import br.com.dio.model.Gato;
+import br.com.dio.model.Livro;
 
 public class FirstProgram {
     public static void main(String[] args) {
@@ -8,7 +9,10 @@ public class FirstProgram {
         Gato gato = new Gato();
 
         System.out.println(gato);
-        /*int a = 5;
+
+        Livro livro = new Livro("Random Book Name", 300);
+        System.out.println(livro);
+        /*int a = 5;''
         int b = 3;
         System.out.println("Hello World! " + (a+b));*/
     }
